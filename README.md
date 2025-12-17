@@ -2,6 +2,9 @@
 ## Mi nombre
 Lucas Peral
 =======
+Realizado por: Mario Juanes Ábalos
+
+=======
 
 Isabel Monzonís Hinarejos
 =======
